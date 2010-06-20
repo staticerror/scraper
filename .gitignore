@@ -1,0 +1,11 @@
+#ignore everything apart from php, css, xml, htaccess, sql, js
+*
+!*/
+!*.php
+!*.css
+!*.xml
+!*.htaccess
+!*.sql
+!*.js
+!*.txt
+!*.gitignore
